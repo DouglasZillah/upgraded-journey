@@ -47,7 +47,9 @@
   * [nginx一键安装编译脚本](nginx一键安装编译脚本.md)
 * MySQL
   * [sql_mode=only_full_group_by错误处理办法](sql_mode=only_full_group_by错误处理办法.md)
-* [zookeeper包的一个坑](zookeeper包的一个坑.md)
+* 分布式
+  * [分布式锁初探](分布式锁初探.md)
+  * [zookeeper包的一个坑](zookeeper包的一个坑.md)
 * 全文索引框架
   * [Elasticsearch(单机)从安装到删库](Elasticsearch(单机)从安装到删库.md)
   * [为什么选择elasticsearch](为什么选择elasticsearch.md)
