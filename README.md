@@ -42,7 +42,7 @@
   * HttpClient
     * [访问百度域名UnknownHost](访问百度域名UnknownHost.md)
   * JWT
-    * [手写一个JWT.md](手写一个JWT.md)
+    * [手写一个JWT](手写一个JWT.md)
 * Linux
   * [Linux硬盘挂载从入门到跑路](Linux硬盘挂载从入门到跑路.md)
 * Nginx
