@@ -4,7 +4,7 @@
 ## 序
 
 
-入行3年了, 回过头来看看, 感觉自己的技术深度还像个应届生一样。
+入行3年, 回过头来看看, 虽然自己摸过很多技术, 也接触了很多, 但是技术深度却只比3年前深了一点。
 
 
 和别的朋友吹水扯淡的时候也会有这种感触。
@@ -53,3 +53,43 @@
 * 全文索引框架
   * [Elasticsearch(单机)从安装到删库](Elasticsearch(单机)从安装到删库.md)
   * [为什么选择elasticsearch](为什么选择elasticsearch.md)
+
+
+技术栈: 
+* 主语言: Java
+  * 常用框架:
+    * Spring, SpringMVC, SpringBoot
+    * MyBatis
+    * HttpClient
+    * Shiro
+    * Maven
+* 服务器: 
+  * Linux(CentOS)
+  * Tomcat, Nginx
+  * Jenkins
+* 关系型数据库(RDBMS):
+  * MySQL
+* NoSQL:
+  * Redis
+* 分布式:  
+  * Dubbo
+  * zookeeper
+* 容器化: Docker
+* 其他: 
+  * HTML, CSS, JavaScript, Vue……
+  * Oauth2, JWT, 微信公众号开发……
+
+
+如果您对我有什么建议, 欢迎随时和我联系: 
+
+
+Mail: [sozizillah@gmail.com](mailto:sozizillah@gmail.com)
+
+
+Blog: [leanote.zillasun.com/blog](http://leanote.zillasun.com/blog)
+
+
+GitHub: [github.zillasun.com](http://github.zillasun.com)
+
+
+GitHub pages: [upgraded-journey.zillasun.com](http://upgraded-journey.zillasun.com)
