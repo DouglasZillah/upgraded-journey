@@ -35,11 +35,16 @@
 
 
 * Java
-  * 基础
+  * [基础](java/README.md)
     * [Java到底是值传递还是引用传递](java/Java到底是值传递还是引用传递.md)
     * [Java的浅拷贝与深拷贝](java/Java的浅拷贝与深拷贝.md)\[未完成\]
     * [volatile和transient关键字](java/volatile和transient关键字.md)\[未完成\]
     * [异常捕获和嵌套捕获](java/异常捕获和嵌套捕获.md)\[未完成\]
+  * [设计模式](设计模式/README.md)
+    * [设计模式六原则](设计模式/设计模式六原则.md)
+    * [单例模式](设计模式/单例模式.md)
+    * [装饰模式与适配器模式](设计模式/装饰模式与适配器模式.md)
+    * [策略模式](设计模式/策略模式.md)
   * Maven
     * [Maven私服踩坑实录](Maven私服踩坑实录.md)
   * Spring
