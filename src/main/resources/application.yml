@@ -1,0 +1,23 @@
+spring:
+
+  # 控制台输出
+  output:
+    ansi:
+      enabled: detect
+
+  # 切面
+  aop:
+    # Add @EnableAspectJAutoProxy.
+    auto: true
+    # Whether subclass-based (CGLIB) proxies are to be created (true), as opposed to standard Java interface-based proxies (false).
+    proxy-target-class: false
+
+  # 数据库连接池选择druid
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+
+logging:
+  level:
+    root: debug

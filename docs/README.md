@@ -35,6 +35,11 @@
 
 
 * Java
+  * 基础
+    * [Java到底是值传递还是引用传递](java/Java到底是值传递还是引用传递.md)
+    * [Java的浅拷贝与深拷贝](java/Java的浅拷贝与深拷贝.md)\[未完成\]
+    * [volatile和transient关键字](java/volatile和transient关键字.md)\[未完成\]
+    * [异常捕获和嵌套捕获](java/异常捕获和嵌套捕获.md)\[未完成\]
   * Maven
     * [Maven私服踩坑实录](Maven私服踩坑实录.md)
   * Spring
@@ -52,7 +57,7 @@
 * 分布式
   * [分布式锁初探](分布式锁初探.md)
   * [zookeeper包的一个坑](zookeeper包的一个坑.md)
-* 全文索引框架
+* 全文检索框架
   * [Elasticsearch(单机)从安装到删库](Elasticsearch(单机)从安装到删库.md)
   * [为什么选择elasticsearch](为什么选择elasticsearch.md)
 

@@ -35,26 +35,31 @@
 
 
 * Java
+  * 基础
+    * [Java到底是值传递还是引用传递](docs/java/Java到底是值传递还是引用传递.md)
+    * [Java的浅拷贝与深拷贝](docs/java/Java的浅拷贝与深拷贝.md)\[未完成\]
+    * [volatile和transient关键字](docs/java/volatile和transient关键字.md)\[未完成\]
+    * [异常捕获和嵌套捕获](docs/java/异常捕获和嵌套捕获.md)\[未完成\]
   * Maven
-    * [Maven私服踩坑实录](Maven私服踩坑实录.md)
+    * [Maven私服踩坑实录](docs/Maven私服踩坑实录.md)
   * Spring
-    * [Spring集成WebSocket即时推送](Spring集成WebSocket即时推送.md)
+    * [Spring集成WebSocket即时推送](docs/Spring集成WebSocket即时推送.md)
   * HttpClient
-    * [访问百度域名UnknownHost](访问百度域名UnknownHost.md)
+    * [访问百度域名UnknownHost](docs/访问百度域名UnknownHost.md)
   * JWT
-    * [手写一个JWT](手写一个JWT.md)
+    * [手写一个JWT](docs/手写一个JWT.md)
 * Linux
-  * [Linux硬盘挂载从入门到跑路](Linux硬盘挂载从入门到跑路.md)
+  * [Linux硬盘挂载从入门到跑路](docs/Linux硬盘挂载从入门到跑路.md)
 * Nginx
-  * [nginx一键安装编译脚本](nginx一键安装编译脚本.md)
+  * [nginx一键安装编译脚本](docs/nginx一键安装编译脚本.md)
 * MySQL
-  * [sql_mode=only_full_group_by错误处理办法](sql_mode=only_full_group_by错误处理办法.md)
+  * [sql_mode=only_full_group_by错误处理办法](docs/sql_mode=only_full_group_by错误处理办法.md)
 * 分布式
-  * [分布式锁初探](分布式锁初探.md)
-  * [zookeeper包的一个坑](zookeeper包的一个坑.md)
-* 全文索引框架
-  * [Elasticsearch(单机)从安装到删库](Elasticsearch(单机)从安装到删库.md)
-  * [为什么选择elasticsearch](为什么选择elasticsearch.md)
+  * [分布式锁初探](docs/分布式锁初探.md)
+  * [zookeeper包的一个坑](docs/zookeeper包的一个坑.md)
+* 全文检索框架
+  * [Elasticsearch(单机)从安装到删库](docs/Elasticsearch(单机)从安装到删库.md)
+  * [为什么选择elasticsearch](docs/为什么选择elasticsearch.md)
 
 
 技术栈: 

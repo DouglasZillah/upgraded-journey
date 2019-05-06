@@ -29,7 +29,11 @@ Error: Could not find or load main class org.apache.zookeeper.server.quorum.Quor
 ```
 
 ### 2019.04.25 更新
-从 [GitHub - zookeeper - release页](https://github.com/apache/zookeeper/releases) 下载所需版本的 `tar`包 后, 进入[Maven 中央仓库](https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/)下载对应版本的jar包到解压后的目录中, 再运行 `bin/zkServer start` 似乎也可以
+从 [GitHub - zookeeper - release页](https://github.com/apache/zookeeper/releases) 下载所需版本的 `tar`包后, 进入[Maven 中央仓库](https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/)下载对应版本的jar包到解压后的目录中, 再运行 `bin/zkServer start` 似乎也可以
+
+
+### 2019.04.29 更新
+从别的地方又看到一个办法, 从这里[http://archive.apache.org/dist/zookeeper/](http://archive.apache.org/dist/zookeeper/)下载`tar`包
 
 
 ## 正确的打开方式: 
