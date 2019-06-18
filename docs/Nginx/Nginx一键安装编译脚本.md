@@ -203,19 +203,32 @@ _BASE_DIR="$PWD"
 
 _BASE_DIR="${_BASE_DIR:0:( ${#_BASE_DIR} - 4 )}"
 
-./configure \
---prefix=${_BASE_DIR} \
---with-pcre=$PWD/pcre-8.42 \
---with-zlib=$PWD/zlib-1.2.11 \
---with-openssl=$PWD/openssl-1.1.1b-src \
---with-http_ssl_module \
---with-stream \
---with-stream_ssl_module \
---with-mail \
---with-mail_ssl_module \
---with-file-aio \
---with-http_v2_module \
---with-threads
+if ["y" == "${_UPDATE_BY_YUM_FLAG}" ]; then
+    ./configure \
+    --prefix=${_BASE_DIR} \
+    --with-http_ssl_module \
+    --with-stream \
+    --with-stream_ssl_module \
+    --with-mail \
+    --with-mail_ssl_module \
+    --with-file-aio \
+    --with-http_v2_module \
+    --with-threads
+else
+    ./configure \
+    --prefix=${_BASE_DIR} \
+    --with-pcre=$PWD/pcre-8.42 \
+    --with-zlib=$PWD/zlib-1.2.11 \
+    --with-openssl=$PWD/openssl-1.1.1b-src \
+    --with-http_ssl_module \
+    --with-stream \
+    --with-stream_ssl_module \
+    --with-mail \
+    --with-mail_ssl_module \
+    --with-file-aio \
+    --with-http_v2_module \
+    --with-threads
+fi
 
 make
 

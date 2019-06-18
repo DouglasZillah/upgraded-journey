@@ -35,42 +35,44 @@
 
 
 * Java
-  * [基础](java/README.md)
-    * [Java到底是值传递还是引用传递](java/Java到底是值传递还是引用传递.md)
-    * [Java的浅拷贝与深拷贝](java/Java的浅拷贝与深拷贝.md)\[未完成\]
-    * [volatile和transient关键字](java/volatile和transient关键字.md)\[未完成\]
-    * [异常捕获和嵌套捕获](java/异常捕获和嵌套捕获.md)\[未完成\]
-  * [设计模式](设计模式/README.md)
-    * [设计模式六原则](设计模式/设计模式六原则.md)
-    * [单例模式](设计模式/单例模式.md)
-    * [装饰模式与适配器模式](设计模式/装饰模式与适配器模式.md)
-    * [策略模式](设计模式/策略模式.md)
+  * [Java基础](Java/Java基础/README.md)
+    * [Java到底是值传递还是引用传递](Java/Java基础/Java到底是值传递还是引用传递.md)
+    * [Java的浅拷贝与深拷贝](Java/Java基础/Java的浅拷贝与深拷贝.md)\[未完成\]
+    * [volatile和transient关键字](Java/Java基础/volatile和transient关键字.md)\[未完成\]
+    * [异常捕获和嵌套捕获](Java/Java基础/异常捕获和嵌套捕获.md)\[未完成\]
   * Maven
-    * [Maven私服踩坑实录](Maven私服踩坑实录.md)
+    * [Maven私服踩坑实录](Java/Maven/Maven私服踩坑实录.md)
   * Spring
-    * [Spring集成WebSocket即时推送](Spring集成WebSocket即时推送.md)
+    * [Spring集成WebSocket即时推送](Java/Spring/Spring集成WebSocket即时推送.md)
   * HttpClient
-    * [访问百度域名UnknownHost](访问百度域名UnknownHost.md)
+    * [访问百度域名UnknownHost](Java/HttpClient/访问百度域名UnknownHost.md)
   * JWT
-    * [手写一个JWT](手写一个JWT.md)
-* Linux
-  * [Linux硬盘挂载从入门到跑路](Linux硬盘挂载从入门到跑路.md)
-* Nginx
-  * [nginx一键安装编译脚本](nginx一键安装编译脚本.md)
+    * [手写一个JWT](Java/JWT/手写一个JWT.md)\[未完成\]
+* [设计模式](设计模式/README.md)
+  * [设计模式六原则](设计模式/设计模式六原则.md)
+  * [单例模式](设计模式/单例模式.md)
+  * [装饰模式与适配器模式](设计模式/装饰模式与适配器模式.md)
+  * [策略模式](设计模式/策略模式.md)
 * MySQL
-  * [sql_mode=only_full_group_by错误处理办法](sql_mode=only_full_group_by错误处理办法.md)
+  * 《极客时间 - MySQL实战45讲》读书笔记与课后思考
+    * [02 | 日志系统: 一条 update 语句是如何执行的](MySQL/一条update语句是如何执行的.md)\[未完成\]
+  * [sql_mode=only_full_group_by错误处理办法](MySQL/sql_mode=only_full_group_by错误处理办法.md)
+* Linux
+  * [Linux硬盘挂载从入门到跑路](Linux/Linux硬盘挂载从入门到跑路.md)
+* Nginx
+  * [Nginx一键安装编译脚本](Nginx/Nginx一键安装编译脚本.md)
 * 分布式
-  * [分布式锁初探](分布式锁初探.md)
-  * [zookeeper包的一个坑](zookeeper包的一个坑.md)
+  * [分布式锁初探](分布式/分布式锁初探.md)\[未完成\]
+  * [zookeeper包的一个坑](分布式/zookeeper包的一个坑.md)
 * 全文检索框架
   * Lucene
     * [为什么选择elasticsearch](全文检索/Lucene/为什么选择elasticsearch.md)
     * Elastic Stack
       * [为什么选择elasticsearch](全文检索/Lucene/为什么选择elasticsearch.md)
       * [Elasticsearch(单机)从安装到删库](全文检索/Lucene/Elastic Stack/Elasticsearch(单机)从安装到删库.md)
-      * [Filebeat 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Filebeat6.7.2安装入门.md)
-      * [Kibana 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Kibana6.7.2安装入门.md)
-      * [Logstash 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Logstash6.7.2安装入门.md)
+      * [Filebeat 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Filebeat6.7.2安装入门.md)\[未完成\]
+      * [Kibana 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Kibana6.7.2安装入门.md)\[未完成\]
+      * [Logstash 6.7.2安装入门](全文检索/Lucene/Elastic Stack/Logstash6.7.2安装入门.md)\[未完成\]
 
 
 技术栈: 
