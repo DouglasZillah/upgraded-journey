@@ -43,11 +43,17 @@
   * Maven
     * [Maven私服踩坑实录](Java/Maven/Maven私服踩坑实录.md)
   * Spring
-    * [Spring集成WebSocket即时推送](Java/Spring/Spring集成WebSocket即时推送.md)
+    * [Spring Bean 生命周期](Java/Spring/SpringBean生命周期.md)\[未完成\]
+    * [SpringMVC 配置 DispatcherServlet](Java/Spring/SpringMVC配置DispatcherServlet.md)\[未完成\]
+    * [SpringMVC ViewResolver](Java/Spring/SpringMVC中的ViewResolver.md)\[未完成\]
+    * [ControllerAdvice：除 AOP 以外的另一种通知](Java/Spring/ControllerAdvice：除AOP以外的另一种通知.md)\[未完成\]
+    * [SpringMVC 集成 WebSocket 实现即时推送](Java/Spring/SpringMVC集成WebSocket实现即时推送.md)
   * HttpClient
     * [访问百度域名UnknownHost](Java/HttpClient/访问百度域名UnknownHost.md)
   * JWT
     * [手写一个JWT](Java/JWT/手写一个JWT.md)\[未完成\]
+  * JVM
+    * [如何判断一个Java进程是被什么杀掉的.md](Java/JVM/如何判断一个Java进程是被什么杀掉的.md)
 * [设计模式](设计模式/README.md)
   * [设计模式六原则](设计模式/设计模式六原则.md)
   * [单例模式](设计模式/单例模式.md)
@@ -106,7 +112,7 @@
 Mail: [sozizillah@gmail.com](mailto:sozizillah@gmail.com)
 
 
-Blog: [leanote.zillasun.com/blog](http://leanote.zillasun.com/blog)
+~~Blog: [leanote.zillasun.com/blog](http://leanote.zillasun.com/blog)~~
 
 
 GitHub: [github.zillasun.com](http://github.zillasun.com)
